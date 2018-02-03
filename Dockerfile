@@ -5,7 +5,7 @@ MAINTAINER Ravaka Razafimanantsoa <ravseraphin+docker-wso2-base@gmail.com>
 
 ENV PRODUCT_NAME="api-manager" \
     PRODUCT_SHORT_NAME="am" \
-    VERSION="2.1.0"
+    VERSION="2.1.0-update8"
     
 # Install packages
 RUN apt-get update \
